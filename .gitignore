@@ -2,7 +2,7 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
-/src/Principle2_OpenClosedPrinciple/TakeHomeTask/VehicleInsurance
+/src/SolidPrinciples/Principle2_OpenClosedPrinciple/TakeHomeTask/VehicleInsurance
 
 ### Eclipse ###
 .apt_generated
